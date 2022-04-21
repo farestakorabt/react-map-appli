@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/farestakorabt/react-maps-appli/static/css/main.fe503124.css",
-    "main.js": "/farestakorabt/react-maps-appli/static/js/main.30f199ad.js",
-    "static/media/main.jpg": "/farestakorabt/react-maps-appli/static/media/main.516fbcd135926107480c.jpg",
-    "static/media/JosefinSans-Medium.ttf": "/farestakorabt/react-maps-appli/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
-    "index.html": "/farestakorabt/react-maps-appli/index.html",
-    "main.fe503124.css.map": "/farestakorabt/react-maps-appli/static/css/main.fe503124.css.map",
-    "main.30f199ad.js.map": "/farestakorabt/react-maps-appli/static/js/main.30f199ad.js.map"
+    "main.css": "/react-maps-appli/static/css/main.0621d14e.css",
+    "main.js": "/react-maps-appli/static/js/main.30f199ad.js",
+    "static/media/main.jpg": "/react-maps-appli/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/react-maps-appli/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/react-maps-appli/index.html",
+    "main.0621d14e.css.map": "/react-maps-appli/static/css/main.0621d14e.css.map",
+    "main.30f199ad.js.map": "/react-maps-appli/static/js/main.30f199ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe503124.css",
+    "static/css/main.0621d14e.css",
     "static/js/main.30f199ad.js"
   ]
 }
